@@ -1,25 +1,39 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hard drive on workstation 005",
+      "message": "fixed router 008 on node 34tr",
       "attention": false,
-      "date": "03-02-2022",
-      "tech": "Sam Smith"
+      "tech": "John Doe",
+      "date": "2022-03-28T20:38:29.494Z",
+      "id": 1
     },
     {
-      "id": 2,
-      "message": "Workstation 002 not posting",
+      "message": "Error occured on router vr009 node rr77",
       "attention": true,
-      "date": "03-02-2022",
-      "tech": "John Doe"
+      "tech": "Sam Smith",
+      "date": "2022-03-28T20:39:03.559Z",
+      "id": 2
     },
     {
-      "id": 3,
-      "message": "Changed memory on workstation 050",
+      "message": "Changed network card in server 007",
       "attention": false,
-      "date": "03-02-2022",
-      "tech": "Sara Wilson"
+      "tech": "Sara Wilson",
+      "date": "2022-03-28T20:47:31.248Z",
+      "id": 3
+    },
+    {
+      "message": "Hardrive failed in server 008",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2022-03-28T20:48:24.857Z",
+      "id": 4
+    },
+    {
+      "message": "1122 wireless down",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2022-03-28T20:48:47.328Z",
+      "id": 5
     }
   ],
   "techs": [
