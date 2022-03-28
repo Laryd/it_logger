@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed hard drive on workstation 005",
+      "attention": false,
+      "date": "03-02-2022",
+      "tech": "Sam Smith"
+    },
+    {
+      "id": 2,
+      "message": "Workstation 002 not posting",
+      "attention": true,
+      "date": "03-02-2022",
+      "tech": "John Doe"
+    },
+    {
+      "id": 3,
+      "message": "Changed memory on workstation 050",
+      "attention": false,
+      "date": "03-02-2022",
+      "tech": "Sara Wilson"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 2,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "id": 3,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "firstName": "Hillary",
+      "lastName": "Omamo",
+      "id": 4
+    }
+  ]
+}
