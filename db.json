@@ -1,32 +1,18 @@
 {
   "logs": [
     {
-      "message": "fixed router 008 on node 34tr",
+      "id": 1,
+      "message": "fix router 008 on node 34tr",
       "attention": false,
-      "tech": "John Doe",
-      "date": "2022-03-28T20:38:29.494Z",
-      "id": 1
+      "tech": "Sam Smith",
+      "date": "2022-03-29T23:09:47.202Z"
     },
     {
-      "message": "Error occured on router vr009 node rr77",
+      "id": 4,
+      "message": "Hardrive failed in server 00888",
       "attention": true,
       "tech": "Sam Smith",
-      "date": "2022-03-28T20:39:03.559Z",
-      "id": 2
-    },
-    {
-      "message": "Changed network card in server 007",
-      "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2022-03-28T20:47:31.248Z",
-      "id": 3
-    },
-    {
-      "message": "Hardrive failed in server 008",
-      "attention": true,
-      "tech": "John Doe",
-      "date": "2022-03-28T20:48:24.857Z",
-      "id": 4
+      "date": "2022-03-29T23:10:14.628Z"
     },
     {
       "message": "1122 wireless down",
@@ -34,6 +20,13 @@
       "tech": "Sam Smith",
       "date": "2022-03-28T20:48:47.328Z",
       "id": 5
+    },
+    {
+      "id": 6,
+      "message": "Fixed error on workstation 00878",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2022-03-29T23:11:48.994Z"
     }
   ],
   "techs": [
