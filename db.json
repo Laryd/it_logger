@@ -1,13 +1,6 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "fix router 008 on node 34tr",
-      "attention": false,
-      "tech": "Lagatha Onyango",
-      "date": "2022-03-31T15:01:06.603Z"
-    },
-    {
       "id": 4,
       "message": "Hardrive failed in server 00888",
       "attention": true,

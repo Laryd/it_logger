@@ -110,7 +110,7 @@ export const clearCurrent = (log) => {
 };
 
 export const addLog = (log) => async (dispatch) => {
-  //get logs from server
+  //add log to server
   try {
     setLoading();
 
